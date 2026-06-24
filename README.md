@@ -26,6 +26,9 @@ An interactive Power BI dashboard built on sales data to analyze:
 ## Dashboard Preview
 
 ![Dashboard](Dashboard.png)
+![Dashboard](Dashboard2.png)
+![Dashboard](Dashboard3.png)
+
 
 ## Insights
 
