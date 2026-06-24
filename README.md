@@ -46,5 +46,4 @@ An interactive Power BI dashboard built on sales data to analyze:
 ## Files
 
 - Sales_Dashboard.pbix
-- Dataset
 - Screenshots
